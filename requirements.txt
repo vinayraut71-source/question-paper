@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+torch
+transformers
+joblib
+numpy
+scikit-learn
+xgboost
+easyocr
+pdf2image
+Pillow
+python-multipart
+reportlab
